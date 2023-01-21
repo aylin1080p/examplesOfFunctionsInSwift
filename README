@@ -1,0 +1,11 @@
+This GitHub repository contains solutions to various programming problems using the Swift programming language. 
+The problems and their solutions are as follows:
+
+A function that converts and returns the degrees entered as a parameter to degrees Fahrenheit. The formula used is: F = C x 1.8 + 32
+A method that calculates the perimeter of a rectangle whose side dimensions are given as parameters.
+A function that calculates the factorial of the given number.
+A function that takes a word and letter as parameters and reports how many times the given letter occurs in the given word.
+A function that calculates the sum of interior angles based on the number of sides. The formula used is: (S-2)*180
+A function that determines salary by working day
+A function that determines the price according to the amount of internet package given and the amount of excess
+Please feel free to use and modify the code as needed. If you have any questions or feedback, please do not hesitate to contact me.
